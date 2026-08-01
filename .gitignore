@@ -6,3 +6,9 @@ dist
 *.tsbuildinfo
 vite.config.d.ts
 vite.config.js
+dist-preview/
+screenshots/
+screenshot.mjs
+vite.config.preview.ts
+vite.config.d.ts
+vite.config.js
